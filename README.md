@@ -1,6 +1,6 @@
 # regionGrowing:
 A recursive region growing algorithm for 2D and 3D grayscale image sets with polygon and binary mask output. 
-## matlab
+#### matlab
 ## regionGrowing3D:26-neighbor
 This function performs "regiongrowing3D" in 3D data from a specified seedpoint (x,y,z)
 
